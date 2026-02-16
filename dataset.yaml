@@ -1,0 +1,21 @@
+names:
+- lie
+- sit
+- eat
+- stand
+- shake
+- spin
+- scratch
+- jump
+- play
+- yawn
+- bark
+- bite
+- social
+- unknown
+- sniff
+nc: 15
+path: /content/drive/MyDrive/RingXMELD/AI/Dog_data/yolo
+test: test/images
+train: train/images
+val: val/images
